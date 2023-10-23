@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "outDir": "./js",
+    "rootDir": ".",
+    "target": "ES6",
+    "module": "ESNext",
+    "sourceMap": true
+  },
+  "include": ["*", "!./js/*"]
+}

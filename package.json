@@ -1,0 +1,12 @@
+{
+  "name": "functional-programming",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "node": "tsc <process.argv[2]> && node <process.argv[2]>.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
